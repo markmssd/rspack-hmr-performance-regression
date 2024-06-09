@@ -1,0 +1,16 @@
+{
+  "name": "10000",
+  "scripts": {
+    "start": "rspack dev --config rspack.config.js"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@rspack/cli": "0.7.1",
+    "@rspack/core": "0.7.1",
+    "@rspack/plugin-react-refresh": "0.7.1",
+    "react-refresh": "0.14.2"
+  }
+}
